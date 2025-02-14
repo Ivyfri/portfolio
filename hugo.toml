@@ -1,4 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ivyfri.github.io/portfolio/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ivyfri portfolio'
 theme = 'hello-friend-ng'
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+pageRef = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 3

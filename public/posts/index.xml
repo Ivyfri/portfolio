@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Ivyfri portfolio</title>
+        <link>http://localhost:1313/portfolio/posts/</link>
+        <description>Recent content in Posts on Ivyfri portfolio</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 14 Feb 2025 16:38:12 +0300</lastBuildDate>
+        <atom:link href="http://localhost:1313/portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>First Post</title>
+            <link>http://localhost:1313/portfolio/posts/first-post/</link>
+            <pubDate>Fri, 14 Feb 2025 16:38:12 +0300</pubDate>
+            
+            <guid>http://localhost:1313/portfolio/posts/first-post/</guid>
+            <description>Тестовая публикация. Наконец сайт билдится и публикуется нормально.
+Репозиторий
+Тема.
+Так же хотел бы добавить замечательный quick-start.
+90% сделано по гайду отсюда, остальные 10 % это add, commit, push.</description>
+            <content type="html"><![CDATA[<h2 id="тестовая-публикация">Тестовая публикация.</h2>
+<p>Наконец сайт билдится и публикуется нормально.</p>
+<p><a href="https://github.com/Ivyfri/portfolio">Репозиторий</a></p>
+<p><a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng">Тема</a>.</p>
+<p>Так же хотел бы добавить замечательный <a href="https://gohugo.io/getting-started/quick-start/">quick-start</a>.</p>
+<p>90% сделано по гайду <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">отсюда</a>, остальные 10 % это add, commit, push.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

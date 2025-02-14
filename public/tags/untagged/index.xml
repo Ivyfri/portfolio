@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ivyfri portfolio</title>
-    <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content in Home on Ivyfri portfolio</description>
+    <title>Untagged on Ivyfri portfolio</title>
+    <link>http://localhost:1313/portfolio/tags/untagged/</link>
+    <description>Recent content in Untagged on Ivyfri portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 16:57:07 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/portfolio/about/</link>
-      <pubDate>Fri, 14 Feb 2025 16:57:07 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/about/</guid>
-      <description>Сайт сделан для выполнения задания по дисциплине &amp;ldquo;Компьютерный практикум&amp;rdquo; при помощи Hugo.&#xA;Репозиторий сайта&#xA;Тема.</description>
-    </item>
+    <lastBuildDate>Fri, 14 Feb 2025 16:38:12 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/portfolio/posts/first-post/</link>
